@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794006043|16378330';
+const CACHE_VERSION = '1794009143|12125454';
 /** @type {string} */
 const CACHE_PREFIX = 'Grudge County-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
